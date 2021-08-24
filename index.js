@@ -1,3 +1,4 @@
+//Yashvardhan
 var number1 = Math.floor(Math.random()*6)+1;
 var randomdiceimg="dice"+number1+".png";
 var randomimgsrc="images/"+randomdiceimg;
